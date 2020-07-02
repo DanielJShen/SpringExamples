@@ -1,10 +1,10 @@
-package com.example.SpringExamples;
+package com.example.spring.SpringMetrics;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MetricsAppTests {
+class SpringMetricsApplicationTests {
 
 	@Test
 	void contextLoads() {
